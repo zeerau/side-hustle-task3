@@ -15,8 +15,8 @@ body {
 }
 
 #container {
-    height: 300px;
-    width: 400px;
+    height: 400px;
+    width: 300px;
   box-shadow: 3px 3px 4px black;
     border: 5px solid #e2ebf4;
     position: relative;
@@ -31,24 +31,25 @@ body {
 }
 
 #container h1 {
-    width: 123px;
+    width: 100px;
     height: 127px;
     text-align: center;
     font-size: 110px;
     position: absolute;
     top: 30%;
     left: 35%;
-    color: #3ddcef;
+    color: #fff;
 }
 
 #buttons {
     height: 50px;
-    width: 260px;
+    width: 200px;
     position: absolute;
-    bottom: 8%;
-    left: 70px;
-}
+    bottom: 25%;
+    left: 85px;
+   
 
+}
 #buttons button {
     height: 50px;
     width: 120px;
@@ -62,5 +63,7 @@ body {
 
 #increment {
     position: absolute;
-    right: 0;
+    right: 40%;
+    top: 110%;
+
 }
