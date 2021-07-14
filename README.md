@@ -1,3 +1,3 @@
 # side hustle task3
  
-https://zeerau.github.io/side-hustle-task3/
+https://goofy-lewin-6e107e.netlify.app/
